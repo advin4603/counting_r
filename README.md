@@ -1,6 +1,7 @@
 # Counting R's in Strawberry
 
-This repo contains accompanying code for my work in investigating how llms fail at counting r's in strawberry.
+This repo contains accompanying code for the paper Counting R’s In Strawberries: Investigating The Unreliability Of LLMs In
+Counting Letters In Words
 
 ## Usage
 
