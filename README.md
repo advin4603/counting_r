@@ -4,6 +4,5 @@ This repo contains accompanying code for the paper Counting R’s In Strawberrie
 Counting Letters In Words
 
 ## Usage
-
-- Ensure python is above 3.10
-- Install requirements from [requirements.txt](requirements.txt)
+- Ensure python >= 3.10
+- Use uv to manage dependencies from pyproject.toml
