@@ -1,7 +1,7 @@
-# Counting R's in Strawberry
+# From Early Encoding to Late Suppression: Interpreting LLMs on Character Counting Tasks
 
-This repo contains accompanying code for the paper Counting R’s In Strawberries: Investigating The Unreliability Of LLMs In
-Counting Letters In Words
+This repo contains accompanying code for the paper From Early Encoding to Late Suppression: Interpreting LLMs on
+Character Counting Tasks
 
 ## Usage
 - Ensure python >= 3.10
